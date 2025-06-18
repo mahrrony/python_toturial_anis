@@ -13,3 +13,6 @@ print("rony")
 print("01768617555")
 print("rony",end="*")
 print("01768617555")
+num1=23
+num2=23
+print(f'{num1}+{num2} = {num1+num2}')

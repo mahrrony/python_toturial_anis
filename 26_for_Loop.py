@@ -1,5 +1,6 @@
 
 num = [10,20,3,4,5,6,7,8]
+num.sort()
 print(num)
 '''
 index = 0 

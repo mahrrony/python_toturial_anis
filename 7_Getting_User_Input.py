@@ -20,9 +20,9 @@ print("Name  : "+Name)
 print("Age   : "+Age)
 print("GPA    : "+GPA)  
 
+
+
 """
-
-
  
 """
 আসুন প্রোগ্রামিং করি। পোস্ট টা প্রোগ্রামার ভাই বোনেরা বুঝবেন।
@@ -39,7 +39,8 @@ else{
 
 
  
-"""
+
+
 a="বই বৃক্ষ "
 b= "welcome to "
 c= "thanks for staying with "
@@ -60,3 +61,16 @@ new member হলে output হবেঃ welcome to  বই বৃক্ষ
 আর old member হলে output হবেঃ thanks for staying with বই বৃক্ষ
 
 সব শেষ এ print করবে বই বৃক্ষ is hoping বই বৃক্ষ will be helped by you any time 
+"""
+
+
+name= input("enter your name :")
+age = input("enter your age :")
+subject = input("enter your sunject  :")
+
+print("information")
+print("name:"+name)
+print("Age :",age)
+print("sub:"+subject)
+
+
